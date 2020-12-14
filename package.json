@@ -1,0 +1,13 @@
+{
+  "name": "your-project-name-here",
+  "version": "1.0.0",
+  "description": "description here",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/style.css -o public/build/style.css"
+  },
+  "author": "Bryan Yeo",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
